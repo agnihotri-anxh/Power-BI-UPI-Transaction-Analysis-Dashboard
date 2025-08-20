@@ -1,7 +1,8 @@
 # Power-BI UPI Transaction Analysis Dashboard 📊
 
 This Power BI dashboard presents a detailed analysis of UPI (Unified Payments Interface) transactions across time, using interactive visualizations and slicers to uncover insights into digital payment trends in India.
-![Uploading image.png…]()
+<img width="1427" height="810" alt="image" src="https://github.com/user-attachments/assets/d0fef782-da4c-4b3b-8bf0-571c0b8a2fab" />
+
 
 <img width="1407" height="790" alt="image" src="https://github.com/user-attachments/assets/84c3b95e-6dde-4231-8233-7fc41598e0f3" />
 
